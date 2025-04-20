@@ -61,25 +61,30 @@ Upgrade/Downgrade movements
 ## 🔬 Techniques & Process Followed
 
 1. **Data Extraction and Transformation**:
-   - Extracted LioCinema and Jotstar data from their respective MySQL databases.
-   - Transformed data by removing duplicates, handling missing values, and standardizing data fields using Power Query Editor to ensure accuracy and consistency.
-   - Loaded all Data Tables to the Data Model to consolidate by establishing relationships among them. 
+   - Retrieved LioCinema and Jotstar datasets from their respective MySQL databases.
+   - Cleaned and transformed the data using Power Query Editor by removing duplicates, addressing missing values, and standardizing fields to maintain data quality and consistency.
+   - Loaded all tables into the data model and established relationships to consolidate the datasets for seamless analysis.
+
 
 2. **Data Modeling**:
    - [Connected dimension tables and fact tables](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/blob/main/Lio_Jotstar%20Data%20Model.png) by implementing snowflake schema.
    - Created calculated columns and DAX measures to derive key metrics and enhance data analysis.
 
 3. **Exploratory Data Analysis (EDA)**:
-   - Used different Visuals and charts to summarize and analyze the data.
-   - Generated **insights** using **slicers** and **field parameters** .
+   - Used different visuals and charts to summarize and analyze the data.
+   - Applied drill-down and cross-filtering techniques to uncover deeper, hidden relationships within the data.   
+   - Utilized aggregation functions, segmentation, and trend analysis to compare key metrics between LioCinema and Jotstar.
+   - Leveraged dynamic field parameters and slicers to enable real-time filtering and customized drill-through insights.
 
 4. **Multiple Views**:
-   - Seggregated different visuals into different view pages for easy navigation and exploring.
-   - Used beautiful icons for different view pages and applied page navigation actions to them.
+   - Organized visuals into separate view pages to ensure easy navigation and a smoother exploration experience.
+   - Incorporated attractive icons for each view page and implemented page navigation actions to enhance user interactivity.
+
 
 5. **Appealing Design**:
-   - Designed reports with the Business-user in mind, ensuring they are visually intuitive and self-explanatory for non-technical stakeholders.
-   - Created a filter panel for user-friendly self-exploring.
+   - Designed reports focusing on business users, making them visually intuitive and easy to understand for non-technical stakeholders.
+   - Built a dedicated filter panel to enable seamless self-exploration and improve user experience.
+
 
 ---
 
@@ -178,7 +183,7 @@ Upgrade/Downgrade movements
 ## 🔗 Imp Project Links 
 
 1. [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUzZTY0NzUtYmYwNi00ZjM2LTkwNGEtNmU2YzA4YTUzOGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=036df02ca0a7b6a34164)
-2. [Video Presentation](https://www.youtube.com/watch?v=Z-kkVwEBCtk)
+2. [Video Presentation](https://www.youtube.com/watch?v=Z-kkVwEBCtk) (Here I have given Post-Merger Recommendations)
 
 ---
 
