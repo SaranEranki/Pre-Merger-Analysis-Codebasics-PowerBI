@@ -182,8 +182,8 @@ Upgrade/Downgrade movements
 
 ## 🔗 Imp Project Links 
 
-1. [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUzZTY0NzUtYmYwNi00ZjM2LTkwNGEtNmU2YzA4YTUzOGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=036df02ca0a7b6a34164)
-2. [Video Presentation](https://www.youtube.com/watch?v=Z-kkVwEBCtk) (Here I have given Post-Merger Recommendations)
+1. 💻 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUzZTY0NzUtYmYwNi00ZjM2LTkwNGEtNmU2YzA4YTUzOGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=036df02ca0a7b6a34164)
+2. 🎥 [Video Presentation](https://www.youtube.com/watch?v=Z-kkVwEBCtk) (Here I have given Post-Merger Recommendations)
 
 ---
 
