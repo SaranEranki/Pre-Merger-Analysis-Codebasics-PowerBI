@@ -50,12 +50,12 @@ Upgrade/Downgrade movements
 
 ## 🛠️ Tools and Technologies Used
 
-- **MySQL**: The primary tool used to store and serve platform data securely from their databases.
+- **MySQL**: The main tool utilized for securely storing and delivering platform data from the databases.
 - **Power Query Editor**: For data extraction, transformation, and loading (ETL) processes. It helps in cleaning and preparing data from various sources.
 - **Power BI Desktop**: For summarizing, analyzing, exploring, and presenting data through creating interactive reports and dashboards that effectively communicate data insights. 
 - **Power BI Servie**: To share the reports to stakeholders and embed in MS powerpoint.
 - **MS Powerpoint**: To make Presentation with answers and Data-backed recommendations and record video.
-
+- **Canva**: Used for designing logos.
 ---
 
 ## 🔬 Techniques & Process Followed
