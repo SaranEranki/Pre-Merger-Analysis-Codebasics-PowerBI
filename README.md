@@ -94,19 +94,19 @@ Upgrade/Downgrade movements
 
 ### 🎞️ Content Library View (Content Library Analysis):
 #### Content Comparison: Jotstar vs. LioCinema
-  - **Content Volume**: Jotstar offers nearly double the content compared to LioCinema.
+  - **Content Volume**: Jotstar offers nearly **double** the content compared to LioCinema.
   - **Genres & Languages**: Jotstar provides a broader selection of genres and languages than LioCinema.
   - **Language Distribution**:
-    - **Jotstar**: Predominantly features content in English.
-    - **LioCinema**: Primarily offers content in Hindi.
-  - **Content Type**: Both platforms have the highest volume of movie-type content.
+    - **Jotstar**: Predominantly features content in **English**.
+    - **LioCinema**: Primarily offers content in **Hindi**.
+  - **Content Type**: Both platforms have the highest volume of **movie-type** content.
 
 <br>
 
 ### 👥 Subscriber View (Subscriber Insights):  
 
   - Total users on **LioCinema** and **Jotstar** are **183K** and **45K**, respectively.
-  - The growth rate of **LioCinema** is **2 times** that of **Jotstar**.
+  - The growth rate of **LioCinema** is **23 times** that of **Jotstar**.
   - User distribution across different parameters shows:
     - **LioCinema**:
       - 57% are **Free users**
@@ -180,7 +180,7 @@ Upgrade/Downgrade movements
 
 ---
 
-## 🔗 Imp Project Links 
+## 🔗 Important Project Links 
 
 1. 💻 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUzZTY0NzUtYmYwNi00ZjM2LTkwNGEtNmU2YzA4YTUzOGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=036df02ca0a7b6a34164)
 2. 🎥 [Video Presentation](https://www.youtube.com/watch?v=Z-kkVwEBCtk) (Here I have given Post-Merger Recommendations)
