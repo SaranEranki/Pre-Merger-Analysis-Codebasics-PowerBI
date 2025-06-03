@@ -1,5 +1,22 @@
 # Pre-Merger Analysis of OTT Platforms (LioCinema & Jotstar)📺🎬
 
+>## 🏆 Achievement
+>🥉 **3rd Place Winner** — [Codebasics Resume Project Challenge #14](https://codebasics.io/challenge/codebasics-resume-project-challenge/17)
+
+>This project was awarded **3rd place** in an analytics competition hosted by Codebasics.
+>**Recognized for:**
+>- Insightful business analysis  
+>- Clean and interactive dashboard design  
+>- Clear and impactful presentation of findings
+
+>✅ Also featured on [LinkedIn](https://www.linkedin.com/posts/codebasics_codebasics-data-dataanalyst-activity-7334062699586142208-fxf8?utm_source=share&utm_medium=member_desktop&rcm=ACoAABY98NEBQWmpZWTaKmK93m_x2JhKH8bkOO4).
+---
+
+## 🎯 Dashboard Preview
+![Dashboard page screenshot](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/blob/main/Screenshot%202025-04-21%20212100.png)
+
+---
+
 ## 🏢 Project Overview 
 
 🚀 Lio x Jotstar: Paving the Future of Streaming in India
@@ -150,10 +167,12 @@ Upgrade/Downgrade movements
 
 ### 💰 Finance View (Revenue Analysis):  
 
-#### I went a step ahead and analysed revenue also by:
-  -  creating new tables and appending new subscription plan details of same user as new rows.
-  -  connecting with date table with plan change date as new subscription date for new rows & end date for old rows.
-  -  Thus getting the durations of plans, multiplied them with their prices and then summarized to get accurate revenues.
+#### I went a step further and analyzed revenue as well by:
+
+  - Creating new tables and appending the updated subscription plan details of the same user as new rows.  
+  - Connecting to the date table using the plan change date as the new subscription start date for the new rows, and as the end date for the old rows.  
+  - This allowed me to calculate the duration of each plan, multiply it by the respective prices, and then summarize the results to obtain accurate revenue figures.
+
 
 #### Revenue & Demographics Comparison: Jotstar vs. LioCinema
 
@@ -175,8 +194,6 @@ Upgrade/Downgrade movements
   - **Average Revenue Per User (ARPU) Analysis**:
     - **Tier 1 city users** contribute more on **both** platforms.
     - **45+ age group users** on **Jotstar** and **34–45 & 45+ age group users** on **LioCinema** are the highest contributors.
-
-
 
 ---
 
