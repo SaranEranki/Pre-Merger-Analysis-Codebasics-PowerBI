@@ -15,7 +15,7 @@
 - [Dashboard Preview](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-dashboard-preview)
 - [Project Overview](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-project-overview)
 - [Project Goals](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-project-goals)
-- [Tools and Technologies Used](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-project-goals)
+- [Tools and Technologies Used](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#%EF%B8%8F-tools-and-technologies-used)
 - [Techniques & Process Followed](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-techniques--process-followed)
 - [Views and Insights](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#views-and-insights)
 - [Important Project Links](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI?tab=readme-ov-file#-important-project-links)
