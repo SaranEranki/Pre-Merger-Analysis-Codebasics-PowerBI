@@ -11,10 +11,20 @@
 
 >✅ Also featured on [LinkedIn](https://www.linkedin.com/posts/codebasics_codebasics-data-dataanalyst-activity-7334062699586142208-fxf8?utm_source=share&utm_medium=member_desktop&rcm=ACoAABY98NEBQWmpZWTaKmK93m_x2JhKH8bkOO4).
 ---
+## Table of Contents
+- [Dashboard Preview](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-dashboard-preview)
+- [Project Overview](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-project-overview)
+- [Project Goals](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-project-goals)
+- [Tools and Technologies Used
+](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#%EF%B8%8F-tools-and-technologies-used)
+- [Techniques & Process Followed](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-techniques--process-followed)
+- [Views and Insights](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#views-and-insights)
+- [Important Project Links](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-important-project-links)
+- [Conclusion](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/edit/main/README.md#-conclusion)
 
 ## 🎯 Dashboard Preview
-![Dashboard page screenshot](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/blob/main/Screenshot%202025-04-21%20212100.png)
 
+[![Dashboard page screenshot](https://github.com/SaranEranki/Pre-Merger-Analysis-Codebasics-PowerBI/blob/main/Screenshot%202025-04-21%20212100.png)](https://app.powerbi.com/view?r=eyJrIjoiOWUzZTY0NzUtYmYwNi00ZjM2LTkwNGEtNmU2YzA4YTUzOGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=036df02ca0a7b6a34164)
 ---
 
 ## 🏢 Project Overview 
